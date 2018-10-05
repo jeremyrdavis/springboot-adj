@@ -22,7 +22,7 @@
     <version>23</version>
   </parent>
   <groupId>io.openshift.booster</groupId>
-  <artifactId>booster</artifactId>
+  <artifactId>springboot-adj</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <name>Spring Boot - HTTP Booster</name>
   <description>Spring Boot - HTTP Booster</description>
